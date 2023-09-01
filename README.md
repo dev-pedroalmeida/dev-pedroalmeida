@@ -2,26 +2,18 @@
 
 **Seja bem-vindo ao meu Github.**
 
-Sou um **Desenvolvedor Front-End** focado em entregar aplicações web funcionais e estéticas.
+Sou um **Desenvolvedor Web** focado em entregar aplicações web funcionais e estéticas.
 
-## Tech stack
+## Tecnologias e ferramentas
 
-#### Linguagens
 ![JavaScript](https://img.shields.io/badge/-Javascript-05122A?style=for-the-badge&logo=javascript&color=07070c)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=html5&color=07070c)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=css3&color=07070c&logoColor=1572B6)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=for-the-badge&logo=mysql&color=07070c)&nbsp;
-
-#### Frameworks
 ![React](https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=react&color=07070c)&nbsp;
-
-#### Versionamento
 ![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git&color=07070c)&nbsp;
-
-#### Ferramentas
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&color=07070c&logoColor=007ACC)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=for-the-badge&logo=linux&color=07070c)&nbsp;
-
 
 ## Contato
 
