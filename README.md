@@ -1,23 +1,65 @@
-# Olá 👋,  me chamo Pedro!
+<h3 align="left">👩‍💻  Sobre mim</h3>
 
-**Seja bem-vindo ao meu Github.**
+###
 
-Sou um **Desenvolvedor Web** focado em entregar aplicações web funcionais e estéticas.
+<p align="left">- 🔭 Desenvolvedor Fullstack<br>- 📚 Estou aprendendo Express.js</p>
 
-## Tecnologias e ferramentas
+###
 
-![JavaScript](https://img.shields.io/badge/-Javascript-05122A?style=for-the-badge&logo=javascript&color=07070c)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=html5&color=07070c)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=css3&color=07070c&logoColor=1572B6)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=for-the-badge&logo=mysql&color=07070c)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=react&color=07070c)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git&color=07070c)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&color=07070c&logoColor=007ACC)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=for-the-badge&logo=linux&color=07070c)&nbsp;
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="25" alt="linkedin logo"  />
+</div>
 
-## Contato
+###
 
-<a target="_blank" href="https://www.linkedin.com/in/pedroalmeida714/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-</a> 
+<h3 align="left">🛠 Tecnologias e ferramentas</h3>
 
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=electron" height="40" alt="electron logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-pedroalmeida&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dev-pedroalmeida&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=pt-br&hide_border=false&order=1" height="250" alt="stats graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/dev-pedroalmeida/count.svg?"  />
+</div>
+
+###
