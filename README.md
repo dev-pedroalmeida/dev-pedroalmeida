@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- 🔭 Desenvolvedor Fullstack<br>- 📚 Estou aprendendo Express.js</p>
+<p align="left">- 🔭 Desenvolvedor Fullstack<br>- 📚 Estou aprendendo Typescript e Next.js</p>
 
 ###
 
