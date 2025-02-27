@@ -1,13 +1,15 @@
-<h3 align="left">👩‍💻  Sobre mim</h3>
+<h3 align="left">👩‍💻  Hello World!</h3>
 
 ###
 
-<p align="left">- 🔭 Desenvolvedor Fullstack<br>- 📚 Estou aprendendo Typescript e Next.js</p>
+<p align="left">- 🔭 Desenvolvedor Fullstack com experiência em React, Next, Node e Express<br>- 📚 Estou aprendendo Typescript e TDD</p>
 
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="25" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/pedroalmeida714/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="25" alt="Linkedin"  />
+  </a>
 </div>
 
 ###
